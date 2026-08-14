@@ -9,7 +9,7 @@ Designing efficient systems, scalable backend architectures, and data-driven app
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadeep-sasanka-618a951b8)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadeep78)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://update.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadeep.vercel.app/)
 [![Email](https://img.shields.io/badge/EMAIL-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
