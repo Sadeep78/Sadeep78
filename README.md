@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,38&height=220&section=header&text=Sadeep%20Sasanka&fontSize=46&fontAlignY=36&animation=twinkling&desc=Information%20Systems%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=60" width="100%" alt="Sadeep Sasanka Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,38&height=220&section=header&text=Sadeep%20Sasanka&fontSize=42&fontAlignY=36&animation=twinkling&desc=Business%20Analyst%20%7C%20Project%20Manager%20%7C%20Enterprise%20Architect%20%7C%20Full-Stack%20Developer&descAlignY=60" width="100%" alt="Sadeep Sasanka Banner" />
 
 <!-- Dynamic Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+Systems+Engineering+Undergraduate;Full-Stack+Developer+%26+System+Designer;Database+Architect+%26+Backend+Engineer;Turning+Complex+Ideas+into+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Business+Analyst+%26+Requirements+Engineer;Project+Manager+%26+Agile+Practitioner;Enterprise+Architect+%26+System+Designer;Full-Stack+Developer+%26+Software+Engineer;Turning+Complex+Ideas+into+Scalable+Solutions" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>📍 Galle, Sri Lanka 🇱🇰 &nbsp;|&nbsp; 🎓 Undergraduate @ SLIIT &nbsp;|&nbsp; 💻 Aspiring Business Analyst</b>
+  <b>📍 Galle, Sri Lanka 🇱🇰 &nbsp;|&nbsp; 📊 Business Analyst &nbsp;|&nbsp; 🎯 Project Manager &nbsp;|&nbsp; 🏛️ Enterprise Architect &nbsp;|&nbsp; 💻 Full-Stack Developer</b>
 </p>
 
 <!-- Quick Action Badges -->
@@ -32,11 +32,11 @@
 
 ### 💫 About Me
 
-* 🎓 **Academic Background**: Currently pursuing **BSc (Hons) in Information Systems Engineering** at **SLIIT** (*Sri Lanka Institute of Information Technology*).
-* ⚙️ **Core Technical Passion**: Engineering robust backend architectures, scalable database schemas, enterprise software, and responsive web applications.
-* 🧩 **Systems & Analysis**: Experienced in bridging business logic with technical design using UML modeling, relational database design (ERD), and clean OOP principles.
-* 🚀 **Future Vision**: Continuously exploring modern cloud technologies, microservices architectures, and data-driven solutions to solve real-world problems.
-* 🤝 **Open for Collaborations**: Actively seeking **Software Engineering Internships**, freelance projects, and open-source contributions.
+* 📊 **Business Analysis**: Specializing in requirement elicitation, business process modeling, stakeholder communication, gap analysis, and converting complex organizational needs into clear technical specifications.
+* 🎯 **Project Management**: Experienced in managing project lifecycles using **Agile / Scrum** methodologies, sprint planning, milestone tracking, and cross-functional team coordination.
+* 🏛️ **Enterprise Architecture**: Designing scalable enterprise systems, structured domain models, robust relational database architectures (ERD), and UML workflows.
+* 💻 **Full-Stack Development**: Hands-on expertise building performant web applications, secure RESTful APIs, and database solutions using modern frameworks and tools.
+* 🚀 **Driving Value**: Dedicated to aligning business strategy with technology execution to deliver high-impact, scalable, and user-centric digital solutions.
 
 ---
 
