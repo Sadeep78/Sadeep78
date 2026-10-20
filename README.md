@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <b>📍 Galle, Sri Lanka 🇱🇰 &nbsp;|&nbsp; 🎓 Undergraduate @ SLIIT &nbsp;|&nbsp; 💻 Aspiring Software Engineer</b>
+  <b>📍 Galle, Sri Lanka 🇱🇰 &nbsp;|&nbsp; 🎓 Undergraduate @ SLIIT &nbsp;|&nbsp; 💻 Aspiring Business Analyst</b>
 </p>
 
 <!-- Quick Action Badges -->
