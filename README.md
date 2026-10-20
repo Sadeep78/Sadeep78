@@ -16,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadeep-sasanka-618a951b8)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadeep.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadeep78)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sadeep78)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasankasadeep78@gmail.com)
 
 <br/>
@@ -148,12 +149,27 @@
 
 ---
 
+### ☕ Support My Work
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/Sadeep78" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="height: 50px !important;" />
+</a>
+
+<p>If you like my projects or find my open-source work helpful, consider buying me a coffee to support my journey! ☕✨</p>
+
+</div>
+
+---
+
 ### 🤝 Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadeep-sasanka-618a951b8)
 [![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadeep.vercel.app/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sadeep78)
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasankasadeep78@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadeep78)
 
