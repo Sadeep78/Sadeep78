@@ -164,7 +164,7 @@
         <img src="https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/github/stars/Sadeep78/pdpa-audit-mcp?style=flat-square&color=e3b341" alt="Stars" />
       </p>
-      <small><i>Last active: Nov 10, 2026</i></small>
+      <small><i>Last active: Nov 9, 2026</i></small>
     </td>
     <td width="50%" valign="top">
       <h4>📌 <a href="https://github.com/Sadeep78/peregrine-geo">peregrine-geo</a></h4>
@@ -213,7 +213,7 @@
         <img src="https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/github/stars/Sadeep78/vulnpulse?style=flat-square&color=e3b341" alt="Stars" />
       </p>
-      <small><i>Last active: Sep 30, 2026</i></small>
+      <small><i>Last active: Sep 29, 2026</i></small>
     </td>
   </tr>
 </table>
