@@ -52,7 +52,7 @@
 
 ---
 
-### 🚀 Featured Projects *(Auto-Updated by Topics & Activity)*
+### 🚀 Featured Projects
 
 <!-- FEATURED_PROJECTS:START -->
 <table>
@@ -152,7 +152,7 @@
 
 ---
 
-### ⚡ Recent Public Repositories & Activity *(Auto-Updated)*
+### ⚡ Recent Public Repositories & Activity
 
 <!-- RECENT_REPOS:START -->
 <table>
