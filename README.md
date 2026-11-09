@@ -24,7 +24,7 @@
 <!-- Live Metrics -->
 [![Profile Views](https://views.igorkowalczyk.dev/api/badge/Sadeep78?style=flat&color=007ec6)](https://github.com/Sadeep78)
 [![Followers](https://img.shields.io/github/followers/Sadeep78?label=Followers&style=flat&color=238636)](https://github.com/Sadeep78)
-[![Public Repos](https://img.shields.io/badge/Repositories-15-blue?style=flat&logo=github)](https://github.com/Sadeep78?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Repositories-17-blue?style=flat&logo=github)](https://github.com/Sadeep78?tab=repositories)
 
 </div>
 
@@ -44,17 +44,39 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **💻 Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **🌐 Backend & Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **💻 Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **🌐 Backend & Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![FastMCP](https://img.shields.io/badge/FastMCP-8A2BE2?style=flat-square&logo=anthropic&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **🗄️ Databases & Modeling** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **🛠️ DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **📐 Concepts & Practices** | `System Architecture` `Relational Database Design` `UML & Activity Diagrams` `RESTful APIs` `Agile/Scrum` `Object-Oriented Programming (OOP)` |
+| **🛠️ DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **📐 Concepts & Practices** | `System Architecture` `Relational Database Design` `UML & Activity Diagrams` `RESTful APIs` `Agile/Scrum` `Object-Oriented Programming (OOP)` `Privacy & Compliance` |
 
 ---
 
 ### 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Sadeep78/pdpa-audit-mcp">PDPA Audit MCP Server</a></h3>
+      <p>Open-source compliance & technical hygiene audit toolkit aligned with Sri Lanka's Personal Data Protection Act (PDPA No. 9 of 2022). Exposes 9 specialized MCP tools with 240+ passing tests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compliance-00C853?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/Sadeep78/pdpa-audit-mcp"><b>View Repository ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦅 <a href="https://github.com/Sadeep78/peregrine-geo">Peregrine Geo</a></h3>
+      <p>Enterprise-grade Android mock-location client, kinematic simulation engine & cloud fleet management console built with clean MVI architecture, API 29+ compatibility, and security hardening.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kinematics-00B0FF?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/Sadeep78/peregrine-geo"><b>View Repository ↗</b></a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Sadeep78/learn-arduino-pro">Learn Arduino Pro</a></h3>
@@ -147,6 +169,75 @@
     </td>
   </tr>
 </table>
+
+---
+
+### ⚡ Recent Public Repositories & Activity *(Auto-Updated)*
+
+<!-- RECENT_REPOS:START -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Sadeep78/pdpa-audit-mcp">pdpa-audit-mcp</a></h4>
+      <p>MCP server that audits websites and projects against a Sri Lanka PDPA technical checklist</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/github/stars/Sadeep78/pdpa-audit-mcp?style=flat-square&color=e3b341" alt="Stars" />
+      </p>
+      <small><i>Last active: Nov 10, 2026</i></small>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Sadeep78/peregrine-geo">peregrine-geo</a></h4>
+      <p>Enterprise-grade Android mock-location client, kinematic simulation engine &amp; cloud fleet console.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-38BDF8?style=flat-square&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/github/stars/Sadeep78/peregrine-geo?style=flat-square&color=e3b341" alt="Stars" />
+      </p>
+      <small><i>Last active: Oct 22, 2026</i></small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Sadeep78/learn-arduino-pro">learn-arduino-pro</a></h4>
+      <p>Interactive physical computing &amp; Arduino learning web platform with 3D digital twins &amp; AVR emulation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-38BDF8?style=flat-square&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/github/stars/Sadeep78/learn-arduino-pro?style=flat-square&color=e3b341" alt="Stars" />
+      </p>
+      <small><i>Last active: Oct 21, 2026</i></small>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Sadeep78/foodsense">foodsense</a></h4>
+      <p>AI-powered demand forecasting and perishable food waste analytics SaaS dashboard for Sri Lankan restaurants, commerci...</p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-38BDF8?style=flat-square&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/github/stars/Sadeep78/foodsense?style=flat-square&color=e3b341" alt="Stars" />
+      </p>
+      <small><i>Last active: Oct 20, 2026</i></small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Sadeep78/avenza-clothing-website">avenza-clothing-website</a></h4>
+      <p>Modern responsive e-commerce web application for fashion and apparel shopping.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-38BDF8?style=flat-square&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/github/stars/Sadeep78/avenza-clothing-website?style=flat-square&color=e3b341" alt="Stars" />
+      </p>
+      <small><i>Last active: Oct 13, 2026</i></small>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Sadeep78/vulnpulse">vulnpulse</a></h4>
+      <p>Automated vulnerability assessment &amp; security audit utility for scanning dependencies in real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/github/stars/Sadeep78/vulnpulse?style=flat-square&color=e3b341" alt="Stars" />
+      </p>
+      <small><i>Last active: Sep 30, 2026</i></small>
+    </td>
+  </tr>
+</table>
+<!-- RECENT_REPOS:END -->
 
 ---
 
