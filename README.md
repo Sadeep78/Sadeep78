@@ -44,7 +44,7 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **💻 Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **💻 Programming Languages** | <!-- DYNAMIC_LANGUAGES:START --> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <!-- DYNAMIC_LANGUAGES:END --> |
 | **🌐 Backend & Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![FastMCP](https://img.shields.io/badge/FastMCP-8A2BE2?style=flat-square&logo=anthropic&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **🗄️ Databases & Modeling** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **🛠️ DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
@@ -52,13 +52,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects *(Auto-Updated by Topics & Activity)*
 
+<!-- FEATURED_PROJECTS:START -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Sadeep78/pdpa-audit-mcp">PDPA Audit MCP Server</a></h3>
-      <p>Open-source compliance & technical hygiene audit toolkit aligned with Sri Lanka's Personal Data Protection Act (PDPA No. 9 of 2022). Exposes 9 specialized MCP tools with 240+ passing tests.</p>
+      <h3><a href="https://github.com/Sadeep78/pdpa-audit-mcp">🛡️ PDPA Audit MCP Server</a></h3>
+      <p>Open-source compliance &amp; technical hygiene audit toolkit aligned with Sri Lanka&#039;s Personal Data Protection Act (PDPA No. 9 of 2022). Exposes 9 specialized MCP tools with 240+ passing tests.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=flat-square&logoColor=white" />
@@ -67,8 +68,8 @@
       <p><a href="https://github.com/Sadeep78/pdpa-audit-mcp"><b>View Repository ↗</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🦅 <a href="https://github.com/Sadeep78/peregrine-geo">Peregrine Geo</a></h3>
-      <p>Enterprise-grade Android mock-location client, kinematic simulation engine & cloud fleet management console built with clean MVI architecture, API 29+ compatibility, and security hardening.</p>
+      <h3><a href="https://github.com/Sadeep78/peregrine-geo">🦅 Peregrine Geo</a></h3>
+      <p>Enterprise-grade Android mock-location client, kinematic simulation engine &amp; cloud fleet management console built with clean MVI architecture, API 29+ compatibility, and security hardening.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
@@ -79,8 +80,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Sadeep78/learn-arduino-pro">Learn Arduino Pro</a></h3>
-      <p>Interactive physical computing & Arduino learning web platform featuring real-time electronic circuit simulation, 3D digital twins, and cycle-accurate AVR emulation.</p>
+      <h3><a href="https://github.com/Sadeep78/learn-arduino-pro">⚡ Learn Arduino Pro</a></h3>
+      <p>Interactive physical computing &amp; Arduino learning web platform featuring real-time electronic circuit simulation, 3D digital twins, and cycle-accurate AVR emulation.</p>
       <p>
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -90,7 +91,7 @@
       <p><a href="https://github.com/Sadeep78/learn-arduino-pro"><b>View Repository ↗</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🥗 <a href="https://github.com/Sadeep78/foodsense">FoodSense</a></h3>
+      <h3><a href="https://github.com/Sadeep78/foodsense">🥗 FoodSense</a></h3>
       <p>AI-powered demand forecasting and perishable food waste analytics SaaS dashboard engineered for restaurants, commercial kitchens, and supermarket chains in Sri Lanka.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -102,17 +103,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📸 <a href="https://github.com/Sadeep78/SerendibSuite">SerendibSuite</a></h3>
-      <p>AI-assisted workflow platform tailored for solo and small-team event photographers in Sri Lanka, combining automated booking management with intelligent photo curation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Workflow_Automation-7B2CBF?style=flat-square" />
-      </p>
-      <p><a href="https://github.com/Sadeep78/SerendibSuite"><b>View Repository ↗</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 <a href="https://github.com/Sadeep78/travel-website">Travel Partner Platform</a></h3>
+      <h3><a href="https://github.com/Sadeep78/travel-website">🌍 Travel Partner Platform</a></h3>
       <p>Full-stack travel management web application featuring interactive destination discovery, tour booking, user authentication, and an administrative control center.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -122,10 +113,8 @@
       </p>
       <p><a href="https://github.com/Sadeep78/travel-website"><b>View Repository ↗</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🎂 <a href="https://github.com/Sadeep78/bakery-dashboard">Bakery & Cake Booking System</a></h3>
+      <h3><a href="https://github.com/Sadeep78/bakery-dashboard">🎂 Bakery & Cake Booking System</a></h3>
       <p>Enterprise bakery ordering platform engineered with clean OOP principles, dynamic cake customizer, real-time inventory management, and role-based access control.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -135,8 +124,10 @@
       </p>
       <p><a href="https://github.com/Sadeep78/bakery-dashboard"><b>View Repository ↗</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Sadeep78/vulnpulse">VulnPulse</a></h3>
+      <h3><a href="https://github.com/Sadeep78/vulnpulse">🛡️ VulnPulse</a></h3>
       <p>Vulnerability assessment and automated security audit utility built to scan and track software dependencies and vulnerabilities with real-time insight.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -145,20 +136,8 @@
       </p>
       <p><a href="https://github.com/Sadeep78/vulnpulse"><b>View Repository ↗</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/IT24103264/Web-based-customer-care-system-for-healthcare-staff-and-patients--project-group-225">MediFlow Connect</a></h3>
-      <p>Relational database-backed customer service application supporting patient care workflows, inquiry resolution, ticket management, and collaborative team care.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p><a href="https://github.com/IT24103264/Web-based-customer-care-system-for-healthcare-staff-and-patients--project-group-225"><b>View Repository ↗</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Sadeep78/OneManArmy.exe">OneManArmy.exe</a></h3>
+      <h3><a href="https://github.com/Sadeep78/OneManArmy.exe">⚡ OneManArmy.exe</a></h3>
       <p>Rapidly engineered hackathon solo project for CodeFuse 3.0 — high-velocity prototyping, end-to-end execution, and algorithmic problem solving under pressure.</p>
       <p>
         <img src="https://img.shields.io/badge/CodeFuse_3.0-00E5FF?style=flat-square" />
@@ -169,6 +148,7 @@
     </td>
   </tr>
 </table>
+<!-- FEATURED_PROJECTS:END -->
 
 ---
 
@@ -179,16 +159,16 @@
   <tr>
     <td width="50%" valign="top">
       <h4>📌 <a href="https://github.com/Sadeep78/pdpa-audit-mcp">pdpa-audit-mcp</a></h4>
-      <p>MCP server that audits websites and projects against a Sri Lanka PDPA technical checklist</p>
+      <p>Open-source compliance &amp; technical hygiene audit toolkit aligned with Sri Lanka&#039;s Personal Data Protection Act (PDPA ...</p>
       <p>
         <img src="https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/github/stars/Sadeep78/pdpa-audit-mcp?style=flat-square&color=e3b341" alt="Stars" />
       </p>
-      <small><i>Last active: Nov 9, 2026</i></small>
+      <small><i>Last active: Nov 10, 2026</i></small>
     </td>
     <td width="50%" valign="top">
       <h4>📌 <a href="https://github.com/Sadeep78/peregrine-geo">peregrine-geo</a></h4>
-      <p>Enterprise-grade Android mock-location client, kinematic simulation engine &amp; cloud fleet console.</p>
+      <p>Enterprise-grade Android mock-location client, kinematic simulation engine &amp; cloud fleet management console built wit...</p>
       <p>
         <img src="https://img.shields.io/badge/-Kotlin-38BDF8?style=flat-square&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/github/stars/Sadeep78/peregrine-geo?style=flat-square&color=e3b341" alt="Stars" />
@@ -199,7 +179,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>📌 <a href="https://github.com/Sadeep78/learn-arduino-pro">learn-arduino-pro</a></h4>
-      <p>Interactive physical computing &amp; Arduino learning web platform with 3D digital twins &amp; AVR emulation.</p>
+      <p>Interactive physical computing &amp; Arduino learning web platform featuring real-time electronic circuit simulation, 3D ...</p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-38BDF8?style=flat-square&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/Sadeep78/learn-arduino-pro?style=flat-square&color=e3b341" alt="Stars" />
@@ -208,7 +188,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>📌 <a href="https://github.com/Sadeep78/foodsense">foodsense</a></h4>
-      <p>AI-powered demand forecasting and perishable food waste analytics SaaS dashboard for Sri Lankan restaurants, commerci...</p>
+      <p>AI-powered demand forecasting and perishable food waste analytics SaaS dashboard engineered for restaurants, commerci...</p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-38BDF8?style=flat-square&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/Sadeep78/foodsense?style=flat-square&color=e3b341" alt="Stars" />
@@ -219,7 +199,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>📌 <a href="https://github.com/Sadeep78/avenza-clothing-website">avenza-clothing-website</a></h4>
-      <p>Modern responsive e-commerce web application for fashion and apparel shopping.</p>
+      <p>Modern software solution &amp; open-source engineering project.</p>
       <p>
         <img src="https://img.shields.io/badge/-JavaScript-38BDF8?style=flat-square&logoColor=white" alt="JavaScript" />
         <img src="https://img.shields.io/github/stars/Sadeep78/avenza-clothing-website?style=flat-square&color=e3b341" alt="Stars" />
@@ -228,12 +208,12 @@
     </td>
     <td width="50%" valign="top">
       <h4>📌 <a href="https://github.com/Sadeep78/vulnpulse">vulnpulse</a></h4>
-      <p>Automated vulnerability assessment &amp; security audit utility for scanning dependencies in real time.</p>
+      <p>Vulnerability assessment and automated security audit utility built to scan and track software dependencies and vulne...</p>
       <p>
         <img src="https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/github/stars/Sadeep78/vulnpulse?style=flat-square&color=e3b341" alt="Stars" />
       </p>
-      <small><i>Last active: Sep 29, 2026</i></small>
+      <small><i>Last active: Sep 30, 2026</i></small>
     </td>
   </tr>
 </table>
