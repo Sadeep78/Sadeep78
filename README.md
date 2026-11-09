@@ -252,8 +252,8 @@
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadeep78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sadeep's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeep78&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sadeep78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sadeep's GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sadeep78&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
 <div align="center">
